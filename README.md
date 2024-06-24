@@ -23,3 +23,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/colin
 
 ### Connect with Me
 - [Linkedin](https://www.linkedin.com/in/colinsubido)
+- subidocolinryan@gmail.com
