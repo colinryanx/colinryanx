@@ -20,6 +20,7 @@ I'm Colin, a young professional with over 4 years of Reporting/MIS and administr
 
 ### Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/colinryanx/Portfolio-Guide/blob/main/README.md)
+Click [here](https://colinryanx.github.io/data-analytics-portfolio/) for a more comprehensive view of my portfolio
 
 ### Connect with Me
 - [Linkedin](https://www.linkedin.com/in/colinsubido)
