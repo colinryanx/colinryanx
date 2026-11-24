@@ -3,7 +3,7 @@
 I am a **Lead Data & Financial Analyst** with **7+ years of experience** bridging the gap between complex raw datasets and executive business strategy. Combining a academic foundation in **Banking and Finance**, hands-on experience in **US/New York regulatory financial compliance**, and a background in **Graphic Design**, I specialize in building scalable data pipelines and high-impact visual dashboards.
 
 ### Core Technical Stack
-- **Querying & Scripting:** SQL, Python, R, Visual Basic for Applications (VBA)
+- **Querying & Scripting:** SQL, Python, Visual Basic for Applications (VBA)
 - **BI & Data Visualization:** Power BI (Power Query, M Code, DAX), Tableau
 - **Spreadsheet Engineering:** Advanced Microsoft Excel, Google Sheets
 - **Design & Presentation:** Adobe Photoshop & Illustrator, UI/UX Dashboard Layouts
