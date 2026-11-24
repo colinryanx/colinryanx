@@ -15,7 +15,7 @@ I am a **Lead Data & Financial Analyst** with **7+ years of experience** bridgin
 
 ### Featured Portfolio
 Explore my end-to-end data cleaning, SQL querying, and interactive BI dashboard projects:
-- **[View My Interactive Data Analytics Portfolio](https://github.io)**
+- **[View My Interactive Data Analytics Portfolio](https://colinryanx.github.io/data-analytics-portfolio/)**
 
 ### Connect with Me
 - **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
