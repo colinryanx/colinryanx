@@ -1,28 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Colin
 
-I'm Colin, a young professional with 5 years of Reporting/MIS and administrative experience dealing mainly with analyzing large datasets and creating reports and summaries in the Banking and Finance Industry. My personal and professional experience made me realize that I enjoy dealing with data and I've decided to advance my career in the Data Analytics and Data Science field.
+I am a **Lead Data & Financial Analyst** with **7+ years of experience** bridging the gap between complex raw datasets and executive business strategy. Combining a academic foundation in **Banking and Finance**, hands-on experience in **US/New York regulatory financial compliance**, and a background in **Graphic Design**, I specialize in building scalable data pipelines and high-impact visual dashboards.
 
-### Soft Skills
-- Problem Solving
-- Researching
-- Data Analysis
-- Data reporting
-- Designing Visualizations
-- Having a quick grasp on learning new skills. 
+### Core Technical Stack
+- **Querying & Scripting:** SQL, Python, R, Visual Basic for Applications (VBA)
+- **BI & Data Visualization:** Power BI (Power Query, M Code, DAX), Tableau
+- **Spreadsheet Engineering:** Advanced Microsoft Excel, Google Sheets
+- **Design & Presentation:** Adobe Photoshop & Illustrator, UI/UX Dashboard Layouts
 
-### Technical Skills 
-- MS Excel
-- Google Sheets
-- SQL
-- Power BI
-- Tableau
-- Python
+### Areas of Expertise
+- **Financial & Regulatory Analytics:** Multi-entity financial tracking, variance analysis, forecasting, and state compliance reporting (CFR, LS300/301, NHTD/TBI).
+- **Data Engineering & ETL:** Automated data cleaning pipelines, database normalization, and multi-schedule dataset management.
+- **Leadership & Strategy:** Mentoring cross-border operations teams and translating chaotic records into executive-ready visual intelligence.
 
-### Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/colinryanx/Portfolio-Guide/blob/main/README.md)
-
-Click [here](https://colinryanx.github.io/data-analytics-portfolio/) for a more comprehensive view of my portfolio
+### Featured Portfolio
+Explore my end-to-end data cleaning, SQL querying, and interactive BI dashboard projects:
+- **[View My Interactive Data Analytics Portfolio](https://github.io)**
 
 ### Connect with Me
-- [Linkedin](https://www.linkedin.com/in/colinsubido)
-- subidocolinryan@gmail.com
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **Email:** subidocolinryan@gmail.com
